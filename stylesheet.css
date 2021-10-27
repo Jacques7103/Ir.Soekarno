@@ -17,6 +17,12 @@ body {
 
 .header span{
     font-size: 80px;
+    padding-bottom: 40px;
+}
+
+.pict {
+    padding-right: 20px;
+    padding-top: 20px;
 }
 
 li {
